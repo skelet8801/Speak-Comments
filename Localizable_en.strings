@@ -1,0 +1,71 @@
+
+"welcome_message" = "Welcome !";
+
+"load_status"         = "Preload: %d | Loaded: %d";
+"invalid"             = "Invalid";
+"invalid_url_message" = "%@\nInvalid URL. It should start with http or https.";
+"share_message"       = "Share -> Choose this App | Share -> Copy Link -> Paste";
+"load_status"         = "Preload: %d | Loaded: %d";
+"search"              = "Search";
+"reply_list"          = "Reply List";
+"recent"              = "Recent";
+"browser"             = "Browser";
+"settings"            = "Settings";
+"voice"               = "Voice";
+"choose_voice"        = "Choose Voice";
+"default"             = "Default";
+"change_default_voice_path"   = "Settings - Accessibility - Spoken Content - Voices -> Change Default Voice";
+"change_language_path"        = "Settings - Apps - This App - Language -> Change Language";
+"top"                 = "Top";
+"newest"              = "Newest";
+"common"              = "Common";
+"bookmark"            = "Bookmark";
+"save"                = "Save";
+"cancel"              = "Cancel";
+
+"x_need_login"        = "X requires login, please log in.";
+"auto_scrow"          = "Auto Scroll";
+"auto_scrow_tips"     = "Automatically scroll to the playback position";
+"select_text"         = "Select Text";
+"select_text_mode"    = "Long-press to select text mode";
+"none"                = "None";
+"copy"                = "Copy";
+"word"                = "Word";
+
+"haptics"                                  = "Haptics";
+"haptic_feedback_when_loading_completes"   = "Haptic feedback when loading completes.";
+
+"play_beep"           = "Beep Sound";
+"play_beep_tips"      = "Play notification(beep) sound before each comment.";
+"no"                  = "No";
+
+
+"auto_play"              = "Auto Play";
+"back"                   = "Back";
+"cancel"                 = "Cancel";
+/* Auto check clipboard when switching apps */
+"check_clipboard_on_switch" = "Auto check clipboard";
+"choose_this_app"        = "Choose this App";
+"comment"                = "Comment";
+"comments_list"          = "Comments";
+"confirm"                = "Confirm";
+"copy_link"              = "Copy Link";
+"delete"                 = "Delete";
+"delete_all_confirmation" = "Sure to delete all  %d items ?";
+"done"                   = "Done";
+"enter_url"              = "Please enter the URL";
+"go"                     = "Go";
+"like"                   = "Like";
+"likes"                  = "Likes";
+"list"                   = "List";
+"load_count"             = "Load Count";
+"loaded"                 = "Loaded";
+"load_more"              = "Load More";
+"play_list"              = "Play List";
+"preload"                = "Preload";
+"replies"                = "Replies";
+"reply"                  = "Reply";
+"reverse_order"          = "Reverse Order";
+"select_all"             = "Select All";
+"selected"               = "Selected";
+"share"                  = "Share";

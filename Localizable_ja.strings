@@ -1,0 +1,69 @@
+
+"welcome_message" = "いらっしゃいませ！";
+
+"invalid"             = "無効";
+"invalid_url_message" = "%@\n無効なURLです。httpまたはhttpsで始まる必要があります。";
+"share_message"       = "共有 → このアプリを選択 | 共有 → リンクをコピー → 貼り付け";
+"load_status"         = "プリロード: %d | 読み込み完了: %d";
+"search"              = "検索";
+"reply_list"          = "返信一覧";
+"recent"              = "最近の";
+"browser"             = "ブラウザ";
+"settings"            = "設定";
+"voice"               = "音声";
+"choose_voice"        = "声を選択";
+"default"             = "デフォルト";
+"change_default_voice_path"   = "設定 - アクセシビリティ - 読み上げコンテンツ - 声 -> デフォルトの声を変更";
+"change_language_path"        = "設定-App-このアプリ-言語 -> 言語を変更";
+"top"                 = "トップ";
+"newest"              = "最新";
+"common"              = "よく使う";
+"bookmark"            = "ブックマーク";
+"save"                = "保存";
+"cancel"              = "キャンセル";
+
+"x_need_login"        = "Xはログインが必要です。ログインしてください。";
+"auto_scrow"          = "自動スクロール";
+"auto_scrow_tips"     = "再生位置に自動的にスクロールします。";
+"select_text"         = "テキストを選択";
+"select_text_mode"    = "長押ししてテキストを選択するモード。";
+"none"                = "なし";
+"copy"                = "コピー";
+"word"                = "単語";
+
+"haptics"                                  = "触覚フィードバック";
+"haptic_feedback_when_loading_completes"   = "読み込み完了時に触覚フィードバック。";
+
+"play_beep"           = "通知音";
+"play_beep_tips"      = "各コメントの前に通知音を再生。";
+"no"                  = "No";
+
+
+"auto_play"              = "自動再生";
+"back"                   = "戻る";
+"cancel"                 = "キャンセル";
+"check_clipboard_on_switch" = "クリップボードを自動確認";
+"choose_this_app"        = "このアプリを選択";
+"comment"                = "コメント";
+"comments_list"          = "コメント一覧";
+"confirm"                = "確認";
+"copy_link"              = "リンクをコピー";
+"delete"                 = "削除";
+"delete_all_confirmation" = "すべての %d 項目を削除してもよろしいですか ？";
+"done"                   = "完了";
+"enter_url"              = "URLを入力してください";
+"go"                     = "移動";
+"like"                   = "いいね";
+"likes"                  = "いいね";
+"list"                   = "リスト";
+"load_count"             = "ロード数";
+"loaded"                 = "ロード済み";
+"load_more"              = "もっと読み込む";
+"play_list"              = "プレイリスト";
+"preload"                = "事前読み込み";
+"replies"                = "返信";
+"reply"                  = "返信する";
+"reverse_order"          = "ワンクリックで逆順";
+"select_all"             = "すべて選択";
+"selected"               = "選択済み";
+"share"                  = "共有";

@@ -1,0 +1,68 @@
+
+"welcome_message" = "歡迎！";
+
+"invalid"             = "無效";
+"invalid_url_message" = "%@\n無效網址，應以http或https開頭。";
+"share_message"       = "分享 -> 選擇此App | 分享 -> 複製連結 -> 貼上";
+"load_status"         = "預加載: %d | 已加載: %d";
+"search"              = "搜尋";
+"reply_list"          = "回覆列表";
+"recent"              = "最近";
+"browser"             = "瀏覽器";
+"settings"            = "設置";
+"voice"               = "聲音";
+"choose_voice"        = "選擇聲音";
+"default"             = "預設";
+"change_default_voice_path"   = "設定-輔助使用-語音內容-聲音-中文 -> 更改預設聲音和溝通語言";
+"change_language_path"        = "設定-App-此App-語言 -> 更改語言";
+"top"                 = "熱門";
+"newest"              = "最新";
+"common"              = "常用";
+"bookmark"            = "書籤";
+"save"                = "儲存";
+"cancel"              = "取消";
+
+"x_need_login"        = "X需要登錄，請登錄。";
+"auto_scrow"          = "自動滾動";
+"auto_scrow_tips"     = "自動滾動到播放位置。";
+"select_text"         = "選擇文本";
+"select_text_mode"    = "長按選中文本的模式。";
+"none"                = "無";
+"copy"                = "拷貝";
+"word"                = "單詞";
+
+"haptics"                                  = "觸感回饋";
+"haptic_feedback_when_loading_completes"   = "加載完成時觸感回饋。";
+
+"play_beep"           = "提示聲音";
+"play_beep_tips"      = "播放每個評論前播放提示音。";
+"no"                  = "無";
+
+
+"auto_play"                 = "自動播放";
+"back"                      = "返回";
+"cancel"                    = "取消";
+"check_clipboard_on_switch" = "切換App自動檢查貼上板";
+"choose_this_app"           = "選擇此App";
+"comment"                   = "評論";
+"comments_list"             = "評論";
+"confirm"                   = "確認";
+"copy_link"                 = "複製連結";
+"delete"                    = "刪除";
+"delete_all_confirmation"   = "確定要刪除所有 %d 項嗎 ？";
+"done"                      = "完成";
+"enter_url"                 = "請輸入網址";
+"go"                        = "前往";
+"like"                      = "贊同";
+"list"                      = "列表";
+"load_count"                = "加載數量";
+"loaded"                    = "已加載";
+"load_more"                 = "加載更多";
+"play_list"                 = "播放列表";
+"preload"                   = "預加載";
+"replies"                   = "條回覆";
+"reply"                     = "回覆";
+"reverse_order"             = "一鍵倒序";
+"select_all"                = "全選";
+"selected"                  = "選中";
+"share"                     = "分享";

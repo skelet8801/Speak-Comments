@@ -1,0 +1,68 @@
+
+"welcome_message" = "欢迎！";
+
+"invalid"             = "无效";
+"invalid_url_message" = "%@\n无效网址，应以http或https开头。";
+"share_message"       = "分享 -> 选择此App | 分享 -> 复制链接 -> 粘贴";
+"load_status"         = "预加载: %d | 已加载: %d";
+"search"              = "搜索";
+"reply_list"          = "回复列表";
+"recent"              = "最近";
+"browser"             = "浏览器";
+"settings"            = "设置";
+"voice"               = "声音";
+"choose_voice"        = "选择声音";
+"default"             = "默认";
+"change_default_voice_path"  = "设置-辅助功能-朗读内容-声音-中文 -> 更改默认声音";
+"change_language_path"       = "设置-App-此App-语言 -> 更改语言";
+"top"                 = "热门";
+"newest"              = "最新";
+"common"              = "常用";
+"bookmark"            = "书签";
+"save"                = "保存";
+"cancel"              = "取消";
+
+"x_need_login"        = "X需要登录，请登录。";
+"auto_scrow"          = "自动滚动";
+"auto_scrow_tips"     = "自动滚动到播放位置。";
+"select_text"         = "选择文本";
+"select_text_mode"    = "长按选中文本的模式。";
+"none"                = "无";
+"copy"                = "拷贝";
+"word"                = "单词";
+
+"haptics"                                  = "触感反馈";
+"haptic_feedback_when_loading_completes"   = "加载完成时触感反馈。";
+
+"play_beep"           = "提示声音";
+"play_beep_tips"      = "播放每个评论前播放提示音";
+"no"                  = "无";
+
+
+"auto_play"              = "自动播放";
+"back"                   = "返回";
+"cancel"                 = "取消";
+"check_clipboard_on_switch" = "切换App自动检查粘贴板";
+"choose_this_app"        = "选择此App";
+"comment"                = "评论";
+"comments_list"          = "评论";
+"confirm"                = "确认";
+"copy_link"              = "复制链接";
+"delete"                 = "删除";
+"delete_all_confirmation" = "确定要删除所有 %d 项吗 ？";
+"done"                   = "完成";
+"enter_url"              = "请输入网址";
+"go"                     = "前往";
+"like"                   = "赞同";
+"list"                   = "列表";
+"load_count"             = "加载数量";
+"loaded"                 = "已加载";
+"load_more"              = "加载更多";
+"play_list"              = "播放列表";
+"preload"                = "预加载";
+"replies"                = "条回复";
+"reply"                  = "回复";
+"reverse_order"          = "一键倒序";
+"select_all"             = "全选";
+"selected"               = "选中";
+"share"                  = "分享";
