@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: January XX, 2025
+Last Updated: January 14, 2025
 
 ## 1. Introduction
 Thank you for using our application (“the App”). The primary function of the App is to **read aloud comments on YouTube videos** and **read aloud posts and comments on X (Twitter)**.  
@@ -82,7 +82,7 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
 ## 8. Contact Us
 If you have any questions, comments, or concerns about this Privacy Policy or how we handle your data, please contact us at:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- *(If applicable)* **Other Contact Info**: phone number, social media handle, or mailing address, etc.
+- **Email**: jly123m1@gmail.com
+
 
 Thank you for reading and agreeing to this Privacy Policy. If you do not agree with these terms, please discontinue using the App.
