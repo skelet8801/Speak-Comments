@@ -1,4 +1,3 @@
-"CFBundleDisplayName" = "朗读评论";
 
 "welcome_message" = "欢迎！";
 
@@ -23,7 +22,15 @@
 "save"                = "保存";
 "cancel"              = "取消";
 
-"x_need_login"        = "X需要登录，请登录。";
+"x_need_login"               = "X需要登录，请登录。";
+"x_need_login_within_app"    = "X需要登录，请在此App的浏览器中登录。";
+
+"instructions_title"  =  "操作说明";
+"instructions_tips_1" =  "此App用来朗读评论。可朗读X(Twitter)的帖子和评论，可朗读YouTube的视频评论。";
+"instructions_tips_2" =  "X需要在此App的浏览器中登录，才能加载其帖子和评论。YouTube不支持Shorts。";
+"instructions_tips_3" =  "可通过 分享-选择此App 进行加载和朗读。";
+
+
 "auto_scrow"          = "自动滚动";
 "auto_scrow_tips"     = "自动滚动到播放位置。";
 "select_text"         = "选择文本";
@@ -38,6 +45,19 @@
 "play_beep"           = "提示声音";
 "play_beep_tips"      = "播放每个评论前播放提示音";
 "no"                  = "无";
+
+"subscription_status"              = "订阅状态";
+"subscription_status_no"          = "订阅状态: 未订阅";
+"subscription_status_yes"         = "订阅状态: 已订阅";
+
+"not_subscribed"               = "未订阅";
+"subscribed"                   = "已订阅";
+"monthly_subscription"         = "按月订阅";
+"restore_purchase"             = "恢复购买";
+"unlimited_loading_reading"    = "订阅可无限次数的加载朗读";
+"loading_monthly_subscription" = "正在加载月度订阅";
+"free_times_per_day"           =  "每天免费次数";
+"first_week_free"              = "首周免费，可随时取消订阅。";
 
 
 "auto_play"              = "自动播放";
