@@ -1,4 +1,3 @@
-"CFBundleDisplayName" = "Speak Comments";
 
 "welcome_message" = "Welcome !";
 
@@ -24,7 +23,14 @@
 "save"                = "Save";
 "cancel"              = "Cancel";
 
-"x_need_login"        = "X requires login, please log in.";
+"x_need_login"              = "X requires login, please log in.";
+"x_need_login_within_app"   = "X requires login. Please log in within the browser of this app.";
+
+"instructions_title"  =  "Instructions";
+"instructions_tips_1" =  "This app is used to read aloud comments. It can read aloud posts and comments from X (Twitter) and video comments from YouTube.";
+"instructions_tips_2" =  "X requires login in the app's browser to load posts and comments. YouTube Shorts are not supported.";
+"instructions_tips_3" =  "You can load and read aloud via Share > Select this App.";
+
 "auto_scrow"          = "Auto Scroll";
 "auto_scrow_tips"     = "Automatically scroll to the playback position";
 "select_text"         = "Select Text";
@@ -39,6 +45,19 @@
 "play_beep"           = "Beep Sound";
 "play_beep_tips"      = "Play notification(beep) sound before each comment.";
 "no"                  = "No";
+
+"subscription_status"             = "Subscription Status";
+"subscription_status_no"          = "Subscription Status: Not Subscribed";
+"subscription_status_yes"         = "Subscription Status: Subscribed";
+
+"not_subscribed"               = "Not Subscribed";
+"subscribed"                   = "Subscribed";
+"monthly_subscription"         = "Monthly Subscription";
+"restore_purchase"             = "Restore Purchase";
+"unlimited_loading_reading"    = "Subscribe for Unlimited Loading and Reading";
+"loading_monthly_subscription" = "Loading Monthly Subscription...";
+"free_times_per_day"           = "Free Times Per Day";
+"first_week_free"              = "First week free, cancel anytime.";
 
 
 "auto_play"              = "Auto Play";
