@@ -1,5 +1,7 @@
 
 ## Speak-Comments
+<img src="https://github.com/skelet8801/Speak-Comments/blob/main/AppIcon_256.png" alt="AppIcon_256" width="64"/>
+
 Read aloud **YouTube** video **comments**. Read aloud **X** (Twitter) **posts** and **comments**.
 
 ## Features
