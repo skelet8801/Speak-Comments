@@ -63,7 +63,7 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
    - We have no direct affiliation with X (Twitter). The basic browser in the App only facilitates user login to load and read X posts and comments.  
    - The App does not represent X (Twitter) and assumes no responsibility for X’s official services.
 
-3. **X (Twitter)**  
+3. **Zhihu**  
    - We have no direct partnership with Zhihu. The basic browser in the application is only used to help users log in and load content.
    - This application does not represent Zhihu and does not assume any responsibility for Zhihu's official services.
    
