@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: January 14, 2025
+Last Updated: February 20, 2025
 
 ## 1. Introduction
 Thank you for using our application (“the App”). The primary function of the App is to **read aloud comments on YouTube videos** and **read aloud posts and comments on X (Twitter)**, and read aloud **Zhihu** answers, articles and comments.  
