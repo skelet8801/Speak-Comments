@@ -3,9 +3,10 @@
 Last Updated: January 14, 2025
 
 ## 1. Introduction
-Thank you for using our application (“the App”). The primary function of the App is to **read aloud comments on YouTube videos** and **read aloud posts and comments on X (Twitter)**.  
+Thank you for using our application (“the App”). The primary function of the App is to **read aloud comments on YouTube videos** and **read aloud posts and comments on X (Twitter)**, and read aloud **Zhihu** answers, articles and comments.  
 - For YouTube comments, the App **does not require any user login** to load and read aloud.  
 - For X (Twitter) posts and comments, the App includes a basic browser (using WKWebView). Users must log in to X within this browser, and the App will automatically store tokens and cookies locally to load and read X content.
+- For Zhihu, if you are not logged in, the data may be incomplete, so it is best to log in. Open the Zhihu URL in the built-in browser, switch to the desktop site, and log in.
 
 This Privacy Policy aims to help you understand how we collect, use, store, share, and protect your personal information. If you have any questions or concerns about this policy, please contact us using the information provided below.
 
@@ -17,9 +18,9 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
    - You do not need to log in to YouTube, nor provide any YouTube account credentials.  
    - We do not store or collect any personally identifiable information from YouTube users.
 
-2. **X (Twitter) Login Data**  
+2. **X (Twitter) and Zhihu Login Data**  
    - When you log in to X (Twitter) within the embedded WKWebView in the App, the X platform provides tokens and cookies, which are stored locally on your device to maintain your login session.  
-   - These tokens and cookies are used only to load and read posts and comments on X.  
+   - These tokens and cookies are used only to load and read posts and comments on X and answers, articles, ideas and comments on Zhihu. .  
    - The App **does not** transmit or share these login credentials with our servers or any third party.
 
 3. **App Usage Data**  
@@ -31,7 +32,7 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
 
 ## 3. How We Use the Information
 1. **Reading Aloud Comments and Posts**  
-   - To retrieve and read aloud YouTube comments, as well as X (Twitter) posts and comments, ensuring the core functionality of the App.
+   - Used to retrieve and read YouTube comments, X (Twitter) posts and comments, Zhihu answers, articles, ideas and comments to ensure the core functionality of the application.
 
 2. **Maintaining Login Sessions**  
    - When you log in to X using the App’s basic browser, locally stored tokens and cookies save you from repeatedly entering your X credentials.
@@ -43,13 +44,13 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
 
 ## 4. Data Storage and Security
 1. **Local Storage**  
-   - X (Twitter) tokens and cookies are stored only on your device and are not uploaded to our servers.
+   - X (Twitter) tokens and cookies and Zhihu cookies are stored only on your device and are not uploaded to our servers.
 
 2. **Data Security**  
    - We take reasonable measures to ensure the App does not misuse or leak locally stored information.
 
 3. **Data Retention**  
-   - When you log out of X (Twitter) in the embedded browser or clear the App’s cache, the associated tokens and cookies will be removed.
+   - When you log out of X (Twitter) and Zhihu in the embedded browser or clear the App’s cache, the associated tokens and cookies will be removed.
 
 ---
 
