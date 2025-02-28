@@ -6,6 +6,9 @@
 
 知乎(Zhihu): 如果不登录，加载数据可能会不完整，最好登录。
 在登录页面中，打开知乎url，然后切换桌面站点，进行登录。
+<br>
+<br>
+
 
 ### 2 After logging into X, occasionally a prompt may appear asking for re-login during usage. 
 
@@ -15,6 +18,8 @@ Alternatively, clicking to load the X page once in the Login Tab will resolve th
 
 X 登录后，在使用过程中，偶尔会弹出提示再次登录的窗口。
 首次使用时需要登录。如果后续使用中再次弹出提示需要登录，可以忽略此提示，只需重新加载数据即可。或者在登录页面中，点击一次加载 X 页面也能解决此问题。
+<br>
+<br>
 
 
 ### 3 YouTube Data Loading Failed.（YouTube加载数据失败。）
@@ -26,6 +31,8 @@ X 登录后，在使用过程中，偶尔会弹出提示再次登录的窗口。
 **原因:** YouTube在某些情况下会进行机器人验证，导致数据加载失败。
 
 **解决方案:** 请切换到本应用的Auth页面，打开内置浏览器并访问YouTube的URL，完成验证并登录YouTube账号。完成后，重新启动本应用并尝试重新加载YouTube数据。
+<br>
+<br>
 
 
 
