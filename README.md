@@ -24,7 +24,7 @@ Read aloud **X** (Twitter) **posts** and **comments**. Read aloud **YouTube** vi
 
 - 请在App Store中搜索"**Speak Comments**", "**朗读评论**", "**朗讀評論**",  "**コメント朗読**" 进行下载。
 - X需要登录，才能获取帖子和评论，请现在App内登录。
-- 知乎最好也登录，否则加载数据可能不完整。
+- **知乎**最好也登录，否则加载数据可能不完整。
 <br><br>
 - 点击"**分享**"，选择**此App**，将**自动**加载数据，并**朗读**。
 - 不支持YouTube的Shorts。
