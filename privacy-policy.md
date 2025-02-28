@@ -12,6 +12,7 @@ This Privacy Policy aims to help you understand how we collect, use, store, shar
 
 ---
 
+
 ## 2. Information We Collect
 1. **YouTube Comment Data**  
    - We retrieve publicly accessible YouTube comments via YouTube interfaces or web pages solely for the purpose of reading them aloud.  
