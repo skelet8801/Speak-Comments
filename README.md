@@ -2,13 +2,14 @@
 ## Speak-Comments
 <img src="https://github.com/skelet8801/Speak-Comments/blob/main/AppIcon_256.png" alt="AppIcon_256" width="64"/>
 
-Read aloud **YouTube** video **comments**. Read aloud **X** (Twitter) **posts** and **comments**.
+朗读知乎，朗读评论。朗读X(Twitter)帖子和评论。 朗读YouTube视频的评论。
+Read aloud **X** (Twitter) **posts** and **comments**. Read aloud **YouTube** video **comments**. 
 
 ## Features
-- This is an **iOS app** designed to read aloud YouTube video comments and X (Twitter) posts and comments.
+- This is an **iOS app** designed to read out Zhihu answers and comments, X (Twitter) posts and comments, as well as YouTube video comments.
 - If you have any questions or suggestions, feel free to share them here.
 
-- 这是一个IOS App，用于朗读YouTube视频的评论、朗读X(Twitter)的帖子和评论。
+- 这是一款 iOS 应用，旨在朗读**知乎的回答和评论**、X（**Twitter**）的帖子和评论，以及 YouTube 视频的评论。
 - 有什么问题或建议，可以在这里提出。
 
 
