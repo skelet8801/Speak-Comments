@@ -27,11 +27,11 @@ X 登录后，在使用过程中，偶尔会弹出提示再次登录的窗口。
 
 **Reason:**   YouTube may perform a robot verification in certain cases, causing the data loading to fail.
 
-**Solution:** Please navigate to the app's Auth page, open the built-in browser, and visit the YouTube URL to complete the verification and log into your YouTube account. Afterward, restart the app and try loading YouTube data again.
+**Solution:** Switch the network IP, disconnect the VPN, and reconnect.
 
 **原因:** YouTube在某些情况下会进行机器人验证，导致数据加载失败。
 
-**解决方案:** 请切换到本应用的Auth页面，打开内置浏览器并访问YouTube的URL，完成验证并登录YouTube账号。完成后，重新启动本应用并尝试重新加载YouTube数据。
+**解决方案:** 切换网络IP，断开VPN连接后重新连接。
 <br>
 <br>
 
